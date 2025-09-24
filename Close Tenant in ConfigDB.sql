@@ -65,3 +65,4 @@ go
 'ochcaitsm-amc-uat.ivanticloud.com',
 'es-amc-stg.ivanticloud.com',
 'withum-amc-uat.ivanticloud.com12')
+
