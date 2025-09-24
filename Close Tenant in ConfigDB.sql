@@ -64,4 +64,4 @@ go
 'clearlake-amc-stg.ivanticloud.com',
 'ochcaitsm-amc-uat.ivanticloud.com',
 'es-amc-stg.ivanticloud.com',
-'withum-amc-uat.ivanticloud.com')
+'withum-amc-uat.ivanticloud.com1')
